@@ -23,7 +23,7 @@ Inspired by [@amiryousefi](https://github.com/amiryousefi) , that code is amazin
 * type `dir`
 * type `cd` + *the directory where you unpacked this script*
 * go to the directory. *Example*: cd C:\User\username\somefiles\somenonsensefolder\finallysomething\THE_ACTUAL_PLACE_YOU_STORED_THIS_AMAZING_PARDON_SCRIPT
-* ok, now we start this with: `python telegramskript.py`
+* ok, now we start this with: `python script.py`
 
 ---
 ### Tip:
